@@ -7,4 +7,4 @@ Welcome to my first GitHub repository!
 
 This repository is part of my journey of learning, building, and exploring software development.
 
-🚀 Learning • Building • Improving
+ Learning • Building • Improving
